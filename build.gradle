@@ -44,7 +44,7 @@ dependencies {
     compile "appeng:appliedenergistics2:rv6-stable-7"
     compile "codechicken:CodeChickenLib:1.12.2-3.2.1.350:deobf"
 	compile "codechicken:ForgeMultipart:1.12.2-2.5.0.70:deobf"
-    compile "codechicken:ChickenASM:1.12-1.0.2.9"
+    compile "codechicken:ChickenASM:2.0.1.14"
 }
 
 
