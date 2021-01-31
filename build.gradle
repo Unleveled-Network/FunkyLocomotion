@@ -40,7 +40,7 @@ minecraft {
 
 dependencies {
     deobfCompile "mezz.jei:jei_1.12.2:4.16.1.302"
-    compile "com.mod-buildcraft:buildcraft-api:7.99.15"
+    compile "com.mod-buildcraft:buildcraft-api:7.99.24.7"
     compile "appeng:appliedenergistics2:rv6-stable-7"
     compile "codechicken:CodeChickenLib:1.12.2-3.2.1.350:deobf"
 	compile "codechicken:ForgeMultipart:1.12.2-2.5.0.70:deobf"
